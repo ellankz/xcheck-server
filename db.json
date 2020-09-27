@@ -680,6 +680,17 @@
         }
       ],
       "reviewerComments": []
+    },
+    {
+      "id": "randomid2",
+      "reviewId": "rev-id-1",
+      "state": "ONGOING",
+      "items": [{
+        "taskItem": "extra_p1",
+        "comment": "Check out the 'All things' page to see all things that were implemented",
+        "suggestedScore": 10
+      }],
+      "reviewerComments": []
     }
   ]
 }
